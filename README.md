@@ -56,5 +56,9 @@ Repository contains quality README file with description, screenshot, and link t
 
 Screenshot of Deployed Website:
 
+<<<<<<< HEAD
 ![Challenge-Image](./assets/images/horiseon-challenge-screen-shot.png)
+=======
+![Alt text] .\assets\images\horiseon-challenge-screen-shot.png raw=true "Horiseon Challenge screen shot"
+>>>>>>> 39ba1c2dc58a8d03d56c3e3ab009e20ce2af8539
 
