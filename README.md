@@ -1,6 +1,9 @@
 # horiseon-challenge
 Bootcamp Challenge #1 - Code Refactoring
 
+URL of website:  https://bradkuhne.github.io/horiseon-challenge/
+URL of Project repository: https://github.com/bradkuhne/horiseon-challenge
+
 User Story
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
@@ -51,4 +54,6 @@ Repository contains multiple descriptive commit messages.
 
 Repository contains quality README file with description, screenshot, and link to deployed application.
 
-How to Submit the Challen
+Screenshot of Deployed Website
+![Alt text].\assets\images\horiseon-challenge-screen-shot.png raw=true "Horiseon Challenge screen shot")
+
