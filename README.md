@@ -56,7 +56,4 @@ Repository contains multiple descriptive commit messages.
 Repository contains quality README file with description, screenshot, and link to deployed application.
 
 Screenshot of Deployed Website:
-
-![Alt text] .\assets\images\horiseon-challenge-screen-shot.png raw=true "Horiseon Challenge screen shot"
-
-![Challenge-Image](./assets/images/horiseon-challenge-screen-shot.png) "Horiseon Challenge screen shot of deployed website"
+![Challenge-Image](./assets/images/horiseon-challenge-screen-shot.png) 
