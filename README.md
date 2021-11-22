@@ -2,6 +2,7 @@
 Bootcamp Challenge #1 - Code Refactoring
 
 URL of website:  https://bradkuhne.github.io/horiseon-challenge/
+
 URL of Project repository: https://github.com/bradkuhne/horiseon-challenge
 
 User Story
@@ -58,3 +59,4 @@ Screenshot of Deployed Website:
 
 ![Alt text] .\assets\images\horiseon-challenge-screen-shot.png raw=true "Horiseon Challenge screen shot"
 
+![Challenge-Image](./assets/images/horiseon-challenge-screen-shot.png) "Horiseon Challenge screen shot of deployed website"
